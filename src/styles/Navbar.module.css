@@ -1,0 +1,11 @@
+.wrap {
+    @apply flex justify-between px-2 py-2 shadow-lg items-center
+}
+
+.wrap img {
+    @apply w-10
+}
+
+.wrap nav {
+    @apply flex gap-5 
+}
